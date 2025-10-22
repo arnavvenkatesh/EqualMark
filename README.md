@@ -15,8 +15,7 @@ The app divides a given length \(L\) into \(n\) equal parts using \( s = L / n \
 then generates tick coordinates \( t_k = k \times s \) and visualizes them on a scalable ruler interface.  
 All rendering is done with pure HTML, CSS, and JavaScript.
 
-### 🌐 Live Demo
-Once deployed, your site will be available at:  
+### 🌐 Live Site
 **https://arnavvenkatesh.github.io/EqualMark/**
 
 ### 🧭 Motivation
